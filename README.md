@@ -7,7 +7,7 @@ cd IKWYA
 
 pip3 install requests
 
-pip3 install json
+pip3 install validate_email
 
 python main.py
 
